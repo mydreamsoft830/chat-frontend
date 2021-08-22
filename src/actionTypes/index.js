@@ -1,0 +1,24 @@
+//  
+export const SAMPLE_ACTION_TYPE = 'SAMPLE_ACTION_TYPE';
+export const ERROR_1_TYPE = 'ERROR_1_TYPE';
+export const LOGIN_FORM_SHOW_TYPE = 'LOGIN_FORM_SHOW_TYPE';
+export const LOGIN_FORM_HIDE_TYPE = 'LOGIN_FORM_HIDE_TYPE';
+
+//  User login action
+
+export const FORMAT_USERINFO_TYPE = 'FORMAT_USERINFO_TYPE';
+export const ERROR_2_TYPE = 'ERROR_2_TYPE';
+export const USER_LOGIN_REQUEST_TYPE = 'USER_LOGIN_REQUEST_TYPE';
+export const SAVE_USERINFO_TYPE = 'SAVE_USERINFO_TYPE';
+export const SAVE_USERTOKEN_TYPE = 'SAVE_USERTOKEN_TYPE';
+
+
+// //  User login action
+
+export const SUCCESS_SAVEURL_TYPE = 'SUCCESS_SAVEURL_TYPE';
+export const SUCCESS_LOADURL_TYPE = 'SUCCESS_LOADURL_TYPE';
+
+
+
+
+
